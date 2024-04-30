@@ -1,0 +1,1 @@
+console.log('the initial checking state');
